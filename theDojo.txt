@@ -1,0 +1,4 @@
+npx create-react-app the-dojo (npm install)
+npm install firebase@8.5
+firebase init //firestore, hosting, storage; change (public) dir to "build" // initialization of firebase
+npm install react-router-dom@5.1
